@@ -1,0 +1,10 @@
+{
+  "name": "product-landing-design",
+  "version": "1.0.0",
+  "description": "Design and build product-first SaaS and developer-tool landing pages in a calm, glassy, screenshot-led style, without the usual AI-generated look.",
+  "author": { "name": "MOHAMAD-ZUBI", "url": "https://github.com/MOHAMAD-ZUBI" },
+  "homepage": "https://github.com/MOHAMAD-ZUBI/product-landing-design",
+  "repository": "https://github.com/MOHAMAD-ZUBI/product-landing-design",
+  "license": "MIT",
+  "keywords": ["landing-page", "design", "marketing-site", "frontend", "glassmorphism", "skill"]
+}

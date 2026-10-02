@@ -1,0 +1,16 @@
+{
+  "name": "product-landing-design",
+  "owner": { "name": "MOHAMAD-ZUBI", "url": "https://github.com/MOHAMAD-ZUBI" },
+  "metadata": {
+    "description": "A skill for building product-first landing pages that don't look AI-generated."
+  },
+  "plugins": [
+    {
+      "name": "product-landing-design",
+      "source": "./",
+      "description": "Design and build product-first SaaS and developer-tool landing pages in a calm, glassy, screenshot-led style.",
+      "version": "1.0.0",
+      "category": "design"
+    }
+  ]
+}
